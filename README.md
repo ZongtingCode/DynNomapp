@@ -4,4 +4,4 @@ This repository contains the Shiny application code used for building an online 
 for text-based outcome evaluation in hilar cholangiocarcinoma (HCCA).
 
 Online version:
-https://hcca-text-outcome-nomogram.shinyapps.io/
+https://hcca-to-predictor.shinyapps.io/HCCA-TO-Predictor/
